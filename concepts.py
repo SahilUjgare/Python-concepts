@@ -147,5 +147,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Do you want me to make this README **general (only text explanations)** or **detailed with actual code snippets included** for each concept?
-
